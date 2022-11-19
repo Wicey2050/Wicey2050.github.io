@@ -114,6 +114,7 @@ body, html {
 .btn.dropdown-toggle  {
     width:150px;
     text-align:left;
+    color: #000000;
 }
 
 span.caret {
