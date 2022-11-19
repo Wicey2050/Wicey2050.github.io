@@ -114,7 +114,6 @@ body, html {
 .btn.dropdown-toggle  {
     width:150px;
     text-align:left;
-    color: #000000;
 }
 
 span.caret {
@@ -125,6 +124,7 @@ span.caret {
 
 label {
     padding-top:5px;
+    background-color: #000000;
 }
 
 .form-label {
