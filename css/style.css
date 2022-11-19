@@ -133,6 +133,7 @@ img {
 
 .btn-success {
     background-color: #242424!important;
+    border: transparent;
 }
 
 .btn-success:hover {
