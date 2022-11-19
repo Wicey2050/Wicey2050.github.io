@@ -107,10 +107,6 @@ body, html {
     align-items: center;
     height: 100vh;
 }
-.right a {
-    padding: 10px 10px;
-}
-
 .btn.dropdown-toggle  {
     width:150px;
     text-align:left;
@@ -124,7 +120,6 @@ span.caret {
 
 label {
     padding-top:5px;
-    background-color: #000000;
 }
 
 .form-label {
@@ -137,11 +132,11 @@ img {
 }
 
 .btn-success {
-    background-color: #3b7d4a!important;
+    background-color: #242424!important;
 }
 
 .btn-success:hover {
-    background-color: #4daf64!important;
+    background-color: #2f3030!important;
 }
 
 img.track {
