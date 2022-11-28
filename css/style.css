@@ -90,6 +90,9 @@ body, html {
     color: #FFFFFF;
     letter-spacing: 1.5px;
 }
+.sidebar button:active {
+    border: none;
+}
 .home {
     margin-left: 250px;
     position: relative;
