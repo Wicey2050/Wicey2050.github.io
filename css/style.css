@@ -111,7 +111,9 @@ body, html {
     width:150px;
     text-align:left;
 }
-
+.select {
+    color:#000000;
+}
 span.caret {
     position: absolute;
     left: 90%;
