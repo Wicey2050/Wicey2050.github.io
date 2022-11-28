@@ -117,6 +117,9 @@ select {
 option:not(:checked) {  
     color:#000 !important;
 }
+option:is(:checked) {  
+    color:#000 !important;
+}
 span.caret {
     position: absolute;
     left: 90%;
