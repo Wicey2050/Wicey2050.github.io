@@ -111,7 +111,7 @@ body, html {
     width:150px;
     text-align:left;
 }
-.select {
+select {
     color:#000000 !important;
 }
 option:not(:checked) { 
