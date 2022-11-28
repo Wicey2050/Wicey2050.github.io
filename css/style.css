@@ -114,6 +114,9 @@ body, html {
 .select {
     color:#000000 !important;
 }
+option:not(:checked) { 
+    color:#000000 !important;
+}
 span.caret {
     position: absolute;
     left: 90%;
