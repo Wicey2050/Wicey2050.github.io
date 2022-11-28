@@ -112,8 +112,7 @@ body, html {
     text-align:left;
 }
 .select {
-    color:#000000;
-    background-color: #000000;
+    color:#000000 !important;
 }
 span.caret {
     position: absolute;
