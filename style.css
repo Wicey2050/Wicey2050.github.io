@@ -150,3 +150,19 @@ img {
 img.track {
     border: 1px solid #8a8a8a;
 }
+.units > * {
+	font: bolder 5rem/5rem "EB Garamond";
+	-webkit-background-clip: text;
+	color: transparent;
+	overflow: hidden;
+}
+/* reflections */
+.units > :last-child {
+	transform: rotatex(180deg) translatey(15px);
+}
+
+.units:first-of-type > :last-child {
+	--gradient: linear-gradient(transparent 50%, white 90%);
+	-webkit-mask-image: var(--gradient);
+	mask-image: var(--gradient);
+}
