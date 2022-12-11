@@ -15,7 +15,7 @@ body, html {
     right: 0;
     bottom: 0;
     z-index: 1;
-    background-image: radial-gradient(0deg, #181818, #000000);
+    background-image: radial-gradient( #181818, #000000);
     transition: opacity 0.2s linear;
   }
 .load-container {
@@ -118,6 +118,12 @@ body, html {
     font-size: 20vw;
     user-select: none;
     text-shadow: 1px 1px 1px#FFFFFF;
+<<<<<<< HEAD
+=======
+    background: -webkit-linear-gradient(top-bottom, #000000 0%, #F6B8D0 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+>>>>>>> parent of d346893 (Update style.css)
 }
 .container {
     justify-content: center;
