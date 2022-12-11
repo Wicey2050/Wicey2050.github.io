@@ -103,7 +103,7 @@ body, html {
     cursor: pointer;
 }
 .sidebar button:hover {
-    color: #FFFFFF;
+    color: #F6B8D0;
     letter-spacing: 1.5px;
 }
 .home {
@@ -142,28 +142,22 @@ span.caret {
     left: 90%;
     top: 45%;
 }
-
 label {
     padding-top:5px;
 }
-
 .form-label {
     padding-left:0px !important;
 }
-
 img {
     width:140px;
     height:140px;
 }
-
 .btn-success {
     background-color: #3b7d4a!important;
 }
-
 .btn-success:hover {
     background-color: #4daf64!important;
 }
-
 img.track {
     border: 1px solid #8a8a8a;
 }
