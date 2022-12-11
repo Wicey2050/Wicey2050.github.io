@@ -118,6 +118,9 @@ body, html {
     font-size: 20vw;
     user-select: none;
     text-shadow: 1px 1px 1px#FFFFFF;
+    background: -webkit-linear-gradient(top-bottom, #000000 0%, #F6B8D0 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 .container {
     justify-content: center;
