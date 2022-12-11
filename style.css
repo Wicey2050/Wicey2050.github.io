@@ -114,6 +114,7 @@ body, html {
 } 
 .home h1 { 
     position: absolute;  
+    bottom: 0;
     font-size: 20vw;
     user-select: none;
     text-shadow: 1px 1px 1px#FFFFFF;
