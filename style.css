@@ -119,12 +119,9 @@ body, html {
     font-size: 20vw;
     user-select: none;
     text-shadow: 1px 1px 1px#FFFFFF;
-<<<<<<< HEAD
-=======
     background: -webkit-linear-gradient(top-bottom, #000000 0%, #F6B8D0 100%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
->>>>>>> parent of d346893 (Update style.css)
 }
 .container {
     justify-content: center;
