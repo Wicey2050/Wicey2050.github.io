@@ -16,7 +16,7 @@ body, html {
     right: 0;
     bottom: 0;
     z-index: 1;
-    background-image: radical-gradient( #181818, #000000);
+    background-image: radial-gradient( #181818, #000000);
     transition: opacity 0.2s linear;
   }
 .load-container {
@@ -46,7 +46,7 @@ body, html {
     width: 100%;
     height: auto;
     display: block;
-    background-image: radical-gradient( #181818, #000000);
+    background-image: radial-gradient( #181818, #000000);
 }
 .bg-container {
     padding: 27px 20px;
