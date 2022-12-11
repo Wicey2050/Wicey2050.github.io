@@ -1,5 +1,4 @@
 * {
-    font-family: Segoe UI, cursive;
     color: #FFFFFF;
     margin: 0;
     padding: 0;
@@ -91,6 +90,7 @@ body, html {
     letter-spacing: 1.5px;
 }
 .bg-container {
+    margin: 10px;
     padding: 27px 20px;
     position: relative;
     width: 100%;
