@@ -34,10 +34,8 @@
             <button onclick="recommendationFunction()" class="tablink" id="recommendationsbtn">Recommendations</button>
          </div>
          <div class="home">
-         <div class="units">
+            <div id="Slogan" style="z-index: -1; position: fixed; font-size: 20pt; color: #999999; text-align: justify; margin-left: 6px; margin-right: 6px;"></div>
             <h1>Kenko</h1>
-            <h1>Kenko</h1>
-         </div>
          </div>
             <div class="container">        
                 <form action="">
@@ -83,5 +81,18 @@
       $(".overlayer").delay(3000).fadeOut("slow");
       $('body').scrollTop(0);
     });
+</script>
+<script>
+    function FillSlogan()
+{
+    var text = '';
+
+    for(var i=0; i<50; i++)
+    {
+        text += 'Making the Web a Better Place ';
+    }
+
+    $('#Slogan').html(text);
+}
 </script>
 </html>
