@@ -77,7 +77,6 @@ body, html {
 .topbar a {
     font-size: 10px;
     color: F6B8D0;
-    text-shadow: 1px 1px 1px#FFFFFF;
 }
 .sidebar {
     display: flex;
