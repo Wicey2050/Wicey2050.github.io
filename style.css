@@ -76,7 +76,7 @@ body, html {
 }
 .topbar a {
     font-size: 10px;
-    color: F6B8D0;
+    color: #F6B8D0;
 }
 .sidebar {
     display: flex;
@@ -119,9 +119,10 @@ body, html {
     font-size: 20vw;
     user-select: none;
     text-shadow: 1px 1px 1px#FFFFFF;
-    background: -webkit-linear-gradient(top-bottom, #000000 0%, #F6B8D0 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to top, #F6B8D0, transparent);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
 }
 .container {
     justify-content: center;
