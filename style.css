@@ -71,11 +71,12 @@ body, html {
     padding: 20px 32px;
 }
 .topbar h1 {
-    color: #F6B8D0;
+    color: #FFFFFF;
     text-shadow: 1px 1px 1px#FFFFFF;
 }
 .topbar a {
     font-size: 10px;
+    color: F6B8D0;
     text-shadow: 1px 1px 1px#FFFFFF;
 }
 .sidebar {
