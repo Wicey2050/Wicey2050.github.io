@@ -15,7 +15,7 @@ body, html {
     right: 0;
     bottom: 0;
     z-index: 1;
-    background-color: #636564;
+    background-color: #4d4847;
     transition: opacity 0.2s linear;
   }
 .load-container {
@@ -32,12 +32,12 @@ body, html {
     text-align: center;
 }
 .text h4 {
-    color: #d2d4c8;
+    color: #1c3738;
     font-size: 20px;
     letter-spacing: 1px;
 }
 .text a {
-    color: #d2d4c8;
+    color: #1c3738;
     font-size: 15px;
     font-weight: 600;
 }
@@ -45,7 +45,7 @@ body, html {
     width: 100%;
     height: auto;
     display: block;
-    background-color: #636564;
+    background-color: #4d4847;
 }
 .bg-container {
     padding: 27px 20px;
@@ -71,11 +71,11 @@ body, html {
     padding: 20px 32px;
 }
 .topbar h1 {
-    color: #4c443c;
+    color: #1c3738;
 }
 .topbar a {
     font-size: 10px;
-    color: #4c443c;
+    color: #f4fff8;
     font-weight: 600;
 }
 .sidebar {
@@ -96,7 +96,7 @@ body, html {
 
     background-color: transparent;
     
-    color: #7c898b;
+    color: #8baaad;
     font-weight: 600;
     text-align: left;
     border: none;
@@ -104,7 +104,7 @@ body, html {
     cursor: pointer;
 }
 .sidebar button:hover, .sidebar button:active {
-    color: #93a3b1;
+    color: #f4fff8;
     letter-spacing: 1.5px;
 }
 .home {
@@ -121,7 +121,7 @@ body, html {
     background-image: linear-gradient(to top, #F6B8D0, transparent);
     -webkit-background-clip: text;
     background-clip: text;
-    color: #4c443c;
+    color: #1c3738;
 }
 .container {
     justify-content: center;
