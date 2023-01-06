@@ -17,5 +17,5 @@ function homeFunction() {
   }
   function recommendationFunction() {
     document.body.scrollTop = 0; 
-    document.documentElement.scrollTop = 1000; 
+    document.documentElement.scrollTop = 900; 
   }
