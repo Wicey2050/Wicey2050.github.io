@@ -32,12 +32,12 @@ body, html {
     text-align: center;
 }
 .text h4 {
-    color: #FFFFFF;
+    color: #d2d4c8;
     font-size: 20px;
     letter-spacing: 1px;
 }
 .text a {
-    color: #FFFFFF;
+    color: #d2d4c8;
     font-size: 15px;
     font-weight: 600;
 }
@@ -71,7 +71,7 @@ body, html {
     padding: 20px 32px;
 }
 .topbar h1 {
-    color: #FFFFFF;
+    color: #d2d4c8;
     text-shadow: 1px 1px 1px#FFFFFF;
 }
 .topbar a {
