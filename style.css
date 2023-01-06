@@ -15,7 +15,7 @@ body, html {
     right: 0;
     bottom: 0;
     z-index: 1;
-    background-color: #424242;
+    background-color: #333333;
     transition: opacity 0.2s linear;
   }
 .load-container {
@@ -45,7 +45,7 @@ body, html {
     width: 100%;
     height: auto;
     display: block;
-    background-color: #424242;
+    background-color: #333333;
 }
 .bg-container {
     padding: 27px 20px;
