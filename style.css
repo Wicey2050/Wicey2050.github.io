@@ -32,7 +32,7 @@ body, html {
     text-align: center;
 }
 .text h4 {
-    color: #feffea;
+    color: #a594f9;
     font-size: 20px;
     letter-spacing: 1px;
 }
@@ -157,7 +157,7 @@ img {
     height:140px;
 }
 .btn-success {
-    background-color: #3b7d4a!important;
+    background-color: #a594f9!important;
 }
 .btn-success:hover {
     background-color: #4daf64!important;
