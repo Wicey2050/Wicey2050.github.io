@@ -15,7 +15,7 @@ body, html {
     right: 0;
     bottom: 0;
     z-index: 1;
-    background-image: radial-gradient( #4D5061 10%, #000000 90%);
+    background-image: #B8BDB5;
     transition: opacity 0.2s linear;
   }
 .load-container {
@@ -45,7 +45,7 @@ body, html {
     width: 100%;
     height: auto;
     display: block;
-    background-image: radial-gradient( #4D5061 10%, #000000 90%);
+    background-image: #B8BDB5;
 }
 .bg-container {
     padding: 27px 20px;
