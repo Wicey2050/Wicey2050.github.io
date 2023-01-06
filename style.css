@@ -71,11 +71,11 @@ body, html {
     padding: 20px 32px;
 }
 .topbar h1 {
-    color: #1c3738;
+    color: #a594f9;
 }
 .topbar a {
     font-size: 10px;
-    color: #f4fff8;
+    color: #a594f9;
     font-weight: 600;
 }
 .sidebar {
@@ -96,7 +96,7 @@ body, html {
 
     background-color: transparent;
     
-    color: #cbe1da;
+    color: #cdc1ff;
     font-weight: 600;
     text-align: left;
     border: none;
@@ -121,7 +121,7 @@ body, html {
     background-image: linear-gradient(to top, #F6B8D0, transparent);
     -webkit-background-clip: text;
     background-clip: text;
-    color: #97c3b5;
+    color: #a594f9;
 }
 .container {
     justify-content: center;
