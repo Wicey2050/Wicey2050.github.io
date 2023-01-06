@@ -76,7 +76,7 @@ body, html {
 }
 .topbar a {
     font-size: 10px;
-    color: #5f7470;
+    color: #FFFFFF;
     font-weight: 600;
 }
 .sidebar {
@@ -97,7 +97,7 @@ body, html {
 
     background-color: transparent;
     
-    color: #7c7b7b;
+    color: #5f7470;
     font-weight: 600;
     text-align: left;
     border: none;
